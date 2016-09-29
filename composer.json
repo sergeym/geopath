@@ -1,0 +1,17 @@
+{
+    "name": "geopath/geopath",
+    "description": "Geo track generators and analyzers",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sergey Marin",
+            "email": "marin.sergey@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "GeoPath": "src/GeoPath"
+        }
+    }
+}
